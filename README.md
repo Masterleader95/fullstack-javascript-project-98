@@ -4,7 +4,11 @@
 
 # Grabacion asciinema brain-even
 
-![asciicast](https://asciinema.org/connect/ad0187d7-cb71-414a-ad55-da5003eac189)
+![asciicast](https://asciinema.org/a/WlpCSDJFB0odEIo1iDveEiSJD)
+
+# Grabacion asciinema brain-even
+
+![asciicast](https://asciinema.org/a/bb2U2yimuNrdfHCUD2X3Dea0b)
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Masterleader95/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Masterleader95/fullstack-javascript-project-98/actions)
