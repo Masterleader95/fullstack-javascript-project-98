@@ -18,6 +18,9 @@
 
 ![asciicast](https://asciinema.org/a/9tBPhSnPVv0wvweF4iJxgwbN2)
 
+# Grabacion asciinema brain-prime
+
+![asciicast](https://asciinema.org/a/z5omEHGA3dEVjaT9EoRVwpRVz)
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Masterleader95/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Masterleader95/fullstack-javascript-project-98/actions)
