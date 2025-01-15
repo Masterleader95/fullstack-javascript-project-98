@@ -2,11 +2,7 @@
 
 import readlineSync from 'readline-sync';
 
-//Función para generar un número aleatorio entre min y max.
-
 const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
-
-//Función principal para ejecutar el juego "Verificación de paridad".
 
 const runParityGame = () => {
   console.log('¡Bienvenido a Brain Games!');
