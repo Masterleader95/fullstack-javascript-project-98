@@ -28,6 +28,6 @@ const getCalcQuestionAndAnswer = () => {
 };
 
 const instruction = '¿Cuál es el resultado de la expresión?';
- 
+
 // Ejecutar el juego "Calculadora"
 runGame('Calculadora', getCalcQuestionAndAnswer, instruction);
