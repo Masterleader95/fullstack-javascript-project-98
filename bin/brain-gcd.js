@@ -5,7 +5,7 @@ import runGame from '../src/index.js';
 const calculateMCD = (a, b) => {
   let x = a;
   let y = b;
-  
+
   while (y !== 0) {
     const temp = y;
     y = x % y;
